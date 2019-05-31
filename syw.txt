@@ -1,2 +1,4 @@
 china is no3
 no, china is no1
+usa is no2
+japan is no3
